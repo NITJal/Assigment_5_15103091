@@ -1,9 +1,5 @@
 import java.util.ArrayList;
 
-/**
- *
- * @author Pawandeep Singh
- */
 public class Stac {
     private ArrayList<Integer> Stac = null;
   
